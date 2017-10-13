@@ -7,3 +7,4 @@ deploy:
   app: safe-retreat-73506
   on:
     repo: KatelinDeSerano/node-shopping-list-integration-tests
+  skip_cleanup: true
